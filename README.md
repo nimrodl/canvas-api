@@ -7,7 +7,8 @@ Then copy config.conf.sample to config.conf and change the token to your API key
 
 This uses python 3.x.
 
-You also need to install the joblib python library.
-https://joblib.readthedocs.io/en/latest/
+required libraries:
+joblib: 	https://joblib.readthedocs.io/en/latest/
+html2text:	https://pypi.org/project/html2text/
 
 Happy Hacking!!
